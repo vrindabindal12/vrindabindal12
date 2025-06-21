@@ -5,17 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Aspiring+SDE+%7C+Building+Scalable+Solutions;Debugging+Reality+%E2%9C%94+Decrypting+Possibilities;Architecting+Tomorrow's+Tech+Today;Perpetual+Learner+%7C+Curious+Mind+%F0%9F%94%8D" alt="Typing SVG">
   </a>
 </p>
-
----
-<h1 align="center">Hi 👋, I'm Vrinda Bindal</h1>
-<p align="center">
-  <em>Full Stack Developer | Hackathon Enthusiast | UI/UX Advocate | Community Leader</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Crafting+Scalable+Solutions+with+Code;Bringing+Ideas+to+Life+Through+Tech;Lifelong+Learner+%7C+Hackathon+Junkie;Leading+with+Logic+and+Empathy" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 Tech Stack
@@ -43,51 +32,10 @@
 
 ---
 
-## 💼 Work Experience
-
-### 🔹 Software Developer Intern – Service Brands Tech (Canada)
-*April 2025 – Present*
-- Developed full-stack apps using Next.js, React, PostgreSQL & Amazon SES.
-- Cut server costs by 60% through smart architecture & indexing.
-- Delivered highly performant, responsive features at scale.
-
-### 🔹 Web Developer – HackHazards 2025, Namespace Community
-*Nov 2024 – May 2025*
-- Built India’s largest hackathon platform for 17,000+ users.
-- Designed fully responsive UI with blazing fast load times.
-- Collaborated with cross-functional teams for streamlined deployment.
-
----
-
-## 💻 Projects
-
-### [WealthWise](https://wealthwise-mw7u.onrender.com/)
-*React.js, Flask, Firebase, Tailwind CSS*
-- AI-powered investment insight platform
-- CLS = 0, INP = 0ms, resolved 21s LCP issue.
-
-### [WorkWise](https://hackthon-gules-omega.vercel.app/)
-*React.js, TypeScript, Next.js*
-- WCAG 2.1 AA-compliant, LCP = 1.97s, CLS = 0.02, INP = 8ms
-- Scored 97% accessibility.
-
----
-
-## 🏆 Achievements
-
-- 🥉 CodeZen (GTB4CEC) – 3rd out of 3,000+ participants
-- 🥉 UXVerse – 3rd place for UI/UX design
-- 🥉 CodeFest – 3rd place among 200+ teams
-- 🏅 Technovation (Sharda Univ.) – 4th out of 800+
-- 🔟 Top 10 at 5+ national-level hackathons
-
----
-
 ## 📈 GitHub Stats
 
 ![Vrinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrindabindal12&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrindabindal12&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/vrindabindal12?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
@@ -102,7 +50,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrindabindal1212@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrinda-bindal-55b645349)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=vercel&logoColor=white)](https://vrinda-portfolio-ashy.vercel.app/)
+
 
 ---
 
